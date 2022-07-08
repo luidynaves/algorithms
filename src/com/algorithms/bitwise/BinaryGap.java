@@ -1,4 +1,4 @@
-package com.algorithms.java.bitwise;
+package com.algorithms.bitwise;
 
 public class BinaryGap {
     public static void main(String[] args) {
