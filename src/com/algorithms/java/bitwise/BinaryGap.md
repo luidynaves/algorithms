@@ -1,4 +1,4 @@
-#Find Largest Binary Gap
+# Find Largest Binary Gap
 
 Find how many zeros contains on a largest gap between two ones in a binary number representation. 
 
